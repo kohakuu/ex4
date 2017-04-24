@@ -1,0 +1,42 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+#head {
+	text-align: center;
+}
+#head ul li {
+	display: inline-block;
+	list-display-style: none;
+	padding: 10px 50px 10px 50px;
+}
+#head ul li {
+	border-right: 1px solid #000;
+	border-left: 1px solid #000;
+}
+#wrap {
+	clear:both;
+	width:100%;
+	text-align: center;
+}
+#left {
+	float: left;
+	background-color: #b2b2b2;
+	width: 25%;
+}
+#right {
+	float: right;
+	background-color: #b2b2b2;
+	width: 25%;
+}
+#col {
+	width: 50%;
+	display: inline-block;
+	margin: 0px auto;
+	background-color: #ebebeb;
+}
+#footer {
+	background-color: #ddd;
+	width: 50%;
+	margin: 0 auto;
+}
